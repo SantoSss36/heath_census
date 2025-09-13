@@ -36,7 +36,8 @@ nav {
   }
   
   h1 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
   }
   
   div {
@@ -90,7 +91,7 @@ nav {
   flex-direction: column;
 }
   #result img{
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
   }
   
